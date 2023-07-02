@@ -1,6 +1,6 @@
 class Registrar():
     """
-    implements event registration and callback...
+    Implements event registration and callback.
 
     receivers is an array of arrays of sets: [ receiver, [ source, { event, ... } ... ], ... ]...
     """
