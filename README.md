@@ -15,3 +15,4 @@ To execute the program:
 
 - Call python __main__.py . (This may require you to specify a particular version of Python.)
 
+![Request_response_sequence_diagram](https://github.com/PaulGreer1/Ripples/blob/main/PYTHON_RIPPLES_00001.png)
