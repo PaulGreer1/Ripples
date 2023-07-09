@@ -7,12 +7,14 @@ Animated model of raindrops landing on a gently flowing river. An initial invest
 
 To execute the program:
 
--1 Ensure that you have Python's Tkinter module installed.
+1. Ensure that you have Python's Tkinter module installed.
 
-- Open a terminal.
+2. Open a terminal.
 
-- cd to the directory where you downloaded the files.
+3. cd to the directory where you downloaded the files.
 
-- Call python __main__.py . (This may require you to specify a particular version of Python.)
+4. Call python __main__.py . (This may require you to specify a particular version of Python.)
+
+5. Relax and zen out.
 
 ![Request_response_sequence_diagram](https://github.com/PaulGreer1/Ripples/blob/main/PYTHON_RIPPLES_00001.png)
