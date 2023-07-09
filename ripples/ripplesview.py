@@ -31,8 +31,6 @@ class RipplesView():
 
     def run_animation( self ):
         print( self.e1.get() )
-        # Not sure why clearscreen() was at the top of the script from which I adapted this script. Could it be to stop other processes
-        # in the same application before starting this process?
         clearscreen()
         tracer(0)             # If this is on, then every single thing that a turtle does is displayed as it happens.
         hideturtle()          # Hide the default turtle.
