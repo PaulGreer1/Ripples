@@ -5,7 +5,7 @@ Animated model of raindrops landing on a gently flowing river. An initial invest
 To execute the program:
 
 - Ensure that you have Python's Tkinter module installed. As root:
-    - # apt-get install python-tk
+    - apt-get install python-tk
 
 - Open a terminal.
 
